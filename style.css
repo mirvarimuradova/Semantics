@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+li{
+    margin: 0;
+    list-style-type: none;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+header{
+    padding: 20px;
+    color: #fff;
+    background-color: black;
+}
+h1{
+    color: #fff;
+    margin:0  60px;
+    width: 300px;
+    display: inline-block;
+}
+.nav-list{
+    margin: 0;
+   display: inline-block;
+  
+}
+.nav-list li{
+    margin: 0 30px;
+    list-style-type: none;
+    color: #fff;
+    float: left;
+}
+.clear{
+   overflow: auto;
+}
+main{
+    
+    padding-top: 30px ;
+    background-color: #D2D2D2;
+}
+h2{
+    margin: 0 40px;
+   padding-top: 40px;
+}
+.section1{
+    float: left;
+    margin: 30px;
+    width: 900px;
+    background-color: #fff;
+    margin:  auto;
+}
+.div-main{
+    margin: 60px ;
+}
+
+section p{
+    margin:  10px 40px;
+}
+.section2{
+    float: left;
+}
+aside{ 
+    width: 400px;
+    background-color: #fff;
+    margin-left: 50px;
+}
+aside img{
+    width: 50px;
+}
+aside h3{
+    margin: 25px 25px 0;
+}
+aside p{
+    font-size: 14px;
+    margin: 10px;
+    width: 265px;
+    display: inline-block;
+}
+aside ul{
+    padding: 20px;
+}
+.aside2{
+    margin-left: 50px;
+    width: 400px;
+    height: 200px;
+    background-color: #fff;
+
+}
